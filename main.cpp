@@ -1,3 +1,10 @@
+/*
+author : Luthfan F Achmadi
+file : main.cpp
+description : Simple Claculator
+date : 25/8/2026
+*/
+
 #include <iostream>
 
 using namespace std ;
